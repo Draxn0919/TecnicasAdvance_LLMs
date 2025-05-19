@@ -55,6 +55,9 @@ uv run streamlit run src/app.py
 
 ## 📝 Ejemplos de Uso
 
+![image](https://github.com/user-attachments/assets/fed0ea0f-7823-4ecd-acb3-66530b6a7776)
+
+
 ### Ejemplo 1: Consulta sobre ingresos
 **Pregunta:** "¿Cuál es el enfoque principal de VoidLoop en sus soluciones de software?"
 **Respuesta esperada:** "El enfoque principal de VoidLoop es construir herramientas que mejoren la eficiencia y productividad empresarial mediante el uso de agentes de inteligencia artificial y automatización de software. Su objetivo es crear soluciones innovadoras para mejorar los procesos empresariales. Esto se logra utilizando tecnologías como LLMs, RPA y NLP."
@@ -92,7 +95,7 @@ ollama pull nomic-embed-text:latest
 ```
 
 ### Ajustes de Rendimiento
-- El tamaño de los chunks está configurado a 1000 caracteres con un solapamiento de 200
+- El tamaño de los chunks está configurado a 400 caracteres con un solapamiento de 50
 - Se recuperan los 2 documentos más relevantes para cada consulta
 - La temperatura del modelo está configurada a 0.6 para un balance entre creatividad y precisión
 
