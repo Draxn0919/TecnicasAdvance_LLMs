@@ -1,0 +1,52 @@
+Descripción del Taller
+Este taller en grupo se centra en aplicar los conceptos de la Unidad 2. El objetivo es desarrollar un proyecto que integre bases de datos vectoriales, embeddings y persistencia en memoria, y frameworks de LLMs para crear una aplicación de RAG (Retrieval Augmented Generation) utilizando Gradio, Streamlit o Mesop.
+
+Instrucciones
+Formación de Equipos: El trabajo será en equipos de 4 personas.
+Objetivo del Proyecto: Diseñar una aplicación interactiva que permita:
+Realizar consultas a una base de datos vectorial.
+Utilizar embeddings para recuperar y persistir información relevante.
+Responder a consultas del usuario mediante un modelo de lenguaje que recurre a técnicas de RAG.
+Elección de Herramientas: Los estudiantes deberán decidir entre Gradio, Streamlit, o Mesop o la herramienta que consideren para desarrollar la interfaz de la aplicación.
+Componentes del Taller
+Bases de Datos Vectoriales (20%)
+
+Integración de una base de datos vectorial para almacenar y consultar embeddings.
+Explicación de los pasos seguidos para configurar y optimizar la base de datos.
+Embeddings y Persistencia en Memoria (20%)
+
+Implementación de embeddings para procesar texto y persistir la memoria conversacional.
+Explicación de los métodos/criterios de embeddings elegidos y cual es la finalidad del uso de la persistencia en memoria en el proyecto.
+RAG (Retrieval Augmented Generation) (20%)
+
+Uso de la técnica RAG para generar respuestas enriquecidas.
+Explicación del flujo entre el modelo de lenguaje y la base de datos vectorial.
+Aplicación Interactiva (20%)
+
+Diseño de la interfaz usando Gradio, Streamlit o Mesop.
+Facilidad de uso y navegabilidad de la interfaz interactiva.
+Documentación y Presentación (20%)
+
+Entrega de un informe detallado que incluya todos los aspectos del desarrollo (Autores, Introducción, Marco teórico, Descripción del problema, Planteamiento de la solución, Entendimiento de los datos, Preparación de los datos, Modelado, Visualización y métricas, Resultados, Conclusiones o primeros insights, Referencias) y que explique la arquitectura, herramientas, y flujo de trabajo.
+Prepararen una presentación de 15 minutos en un vídeo, donde cada miembro del equipo participa. En le vídeo incluyan una demostración en vivo de la aplicación.
+
+
+Rúbrica de Evaluación
+Criterio	Porcentaje
+Bases de Datos Vectoriales	20%
+Embeddings y Persistencia en Memoria	20%
+RAG (Retrieval Augmented Generation)	20%
+Aplicación Interactiva	20%
+Documentación y Presentación	20%
+
+Entregables
+Código de la Aplicación: Repositorio en GitHub.
+Reporte Documentado: Plantilla de Latex - Overleaf LINK AQUI.
+Presentación Oral: Link del Video (YouTube privado, Link de Google Drive, etc) Duración máxima de 15 minutos.
+Notas Adicionales:
+
+Plazo de Entrega: Fecha límite para la entrega del informe y presentación será el  viernes, 23 de Mayo de 2025, 23:59.
+Originalidad: Se espera que el trabajo sea original y realizado por el grupo. Cualquier plagio será penalizado según las políticas de la universidad.
+Asesoría: Pueden consultar con el profesor cualquier duda o inconveniente que surja durante el desarrollo del taller.
+Entrega fuera del plazo tiene una penalización de la nota sobre 4.0
+¡Éxito en el desarrollo de su aplicación!
